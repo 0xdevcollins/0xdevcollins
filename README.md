@@ -1,6 +1,6 @@
 # Hey, I'm Collins! 👋
 
-Welcome to my coding space! I’m **@devcollinss**, and I’m always on a journey to push the boundaries of tech. Here’s a little about me:
+Welcome to my coding space! I’m **0xdevcollins**, and I’m always on a journey to push the boundaries of tech. Here’s a little about me:
 
 - ⚡ **React & TypeScript Enthusiast** – deeply immersed, but always hungry to learn more.
 - 🔧 **Full-Stack Developer** – proficient in **PHP/Laravel** for backend magic and exploring the DevOps world.
