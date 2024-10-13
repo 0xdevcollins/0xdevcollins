@@ -13,6 +13,6 @@ Welcome to my coding space! I’m **0xdevcollins**, and I’m always on a journe
 
 # GitHub Stats
 
-![Collins's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdevcollinss&count_private=true&show_icons=true&theme=onedark)
+![Collins's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdevcollins&count_private=true&show_icons=true&theme=onedark)
 
 Let’s build something amazing! 💻🚀
