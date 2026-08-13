@@ -10,21 +10,9 @@
 
 🌍 &nbsp;Door's permanently open for open source — the weirder the idea, the better.
 
-🧭 &nbsp;Chasing whatever's interesting this month. Lately: **Rust**, **Soroban**, **threat modelling**.
+🧭 &nbsp;Chasing whatever's interesting this month.
 
-🐛 &nbsp;My code works first try about as often as two JavaScript date libraries agree.
 
-### Top languages, counted by repo
-
-```text
-TypeScript  ███████████████  30%
-JavaScript  ████████         16%
-PHP         ██████           13%
-HTML        ██████           13%
-CSS         ██████           13%
-SCSS        ███               6%
-Dart · Blade · MDX · Rust     9%
-```
 
 <div align="center">
 
