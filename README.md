@@ -14,14 +14,23 @@
 
 🐛 &nbsp;My code works first try about as often as two JavaScript date libraries agree.
 
+### Top languages, counted by repo
+
+```text
+TypeScript  ███████████████  30%
+JavaScript  ████████         16%
+PHP         ██████           13%
+HTML        ██████           13%
+CSS         ██████           13%
+SCSS        ███               6%
+Dart · Blade · MDX · Rust     9%
+```
+
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=0xdevcollins&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=360" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevcollins&layout=compact&langs_count=8&size_weight=0&count_weight=1&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=330&custom_title=Top+Languages+(by+repo)" alt="Top languages by repo count" />
-
-<br />
-
-<a href="https://www.linkedin.com/in/collins-ikechukwu-a5a75323a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/devcollinss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<img src="https://img.shields.io/github/followers/0xdevcollins?style=for-the-badge&logo=github&logoColor=white&color=7AA2F7&labelColor=1A1B27" alt="Followers" />
+<img src="https://img.shields.io/badge/repos-116-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" alt="Repos" />
+<a href="https://www.linkedin.com/in/collins-ikechukwu-a5a75323a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn" /></a>
+<a href="https://twitter.com/devcollinss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1B27" alt="X" /></a>
 
 </div>
