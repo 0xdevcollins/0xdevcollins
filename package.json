@@ -1,0 +1,15 @@
+{
+  "name": "0xdevcollins-profile",
+  "private": true,
+  "type": "module",
+  "description": "Builds the images on github.com/0xdevcollins",
+  "scripts": {
+    "render": "node scripts/render.mjs",
+    "shots": "node scripts/shots.mjs",
+    "stats": "node scripts/stats.mjs",
+    "stats:sample": "node scripts/stats.mjs --sample"
+  },
+  "dependencies": {
+    "opentype.js": "1.3.4"
+  }
+}

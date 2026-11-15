@@ -1,0 +1,290 @@
+{
+ "updated": "2026-11-15T05:35:34.616Z",
+ "year": 6518,
+ "prs": 200,
+ "current": 6,
+ "longest": 53,
+ "weeks": [
+  {
+   "start": "2025-11-16",
+   "count": 76
+  },
+  {
+   "start": "2025-11-23",
+   "count": 70
+  },
+  {
+   "start": "2025-11-30",
+   "count": 40
+  },
+  {
+   "start": "2025-12-07",
+   "count": 106
+  },
+  {
+   "start": "2025-12-14",
+   "count": 1
+  },
+  {
+   "start": "2025-12-21",
+   "count": 28
+  },
+  {
+   "start": "2025-12-28",
+   "count": 35
+  },
+  {
+   "start": "2026-01-04",
+   "count": 13
+  },
+  {
+   "start": "2026-01-11",
+   "count": 39
+  },
+  {
+   "start": "2026-01-18",
+   "count": 46
+  },
+  {
+   "start": "2026-01-25",
+   "count": 107
+  },
+  {
+   "start": "2026-02-01",
+   "count": 43
+  },
+  {
+   "start": "2026-02-08",
+   "count": 52
+  },
+  {
+   "start": "2026-02-15",
+   "count": 50
+  },
+  {
+   "start": "2026-02-22",
+   "count": 114
+  },
+  {
+   "start": "2026-03-01",
+   "count": 85
+  },
+  {
+   "start": "2026-03-08",
+   "count": 81
+  },
+  {
+   "start": "2026-03-15",
+   "count": 79
+  },
+  {
+   "start": "2026-03-22",
+   "count": 179
+  },
+  {
+   "start": "2026-03-29",
+   "count": 208
+  },
+  {
+   "start": "2026-04-05",
+   "count": 32
+  },
+  {
+   "start": "2026-04-12",
+   "count": 18
+  },
+  {
+   "start": "2026-04-19",
+   "count": 14
+  },
+  {
+   "start": "2026-04-26",
+   "count": 16
+  },
+  {
+   "start": "2026-05-03",
+   "count": 26
+  },
+  {
+   "start": "2026-05-10",
+   "count": 120
+  },
+  {
+   "start": "2026-05-17",
+   "count": 194
+  },
+  {
+   "start": "2026-05-24",
+   "count": 275
+  },
+  {
+   "start": "2026-05-31",
+   "count": 82
+  },
+  {
+   "start": "2026-06-07",
+   "count": 48
+  },
+  {
+   "start": "2026-06-14",
+   "count": 68
+  },
+  {
+   "start": "2026-06-21",
+   "count": 154
+  },
+  {
+   "start": "2026-06-28",
+   "count": 60
+  },
+  {
+   "start": "2026-07-05",
+   "count": 437
+  },
+  {
+   "start": "2026-07-12",
+   "count": 254
+  },
+  {
+   "start": "2026-07-19",
+   "count": 117
+  },
+  {
+   "start": "2026-07-26",
+   "count": 120
+  },
+  {
+   "start": "2026-08-02",
+   "count": 222
+  },
+  {
+   "start": "2026-08-09",
+   "count": 213
+  },
+  {
+   "start": "2026-08-16",
+   "count": 387
+  },
+  {
+   "start": "2026-08-23",
+   "count": 261
+  },
+  {
+   "start": "2026-08-30",
+   "count": 222
+  },
+  {
+   "start": "2026-09-06",
+   "count": 236
+  },
+  {
+   "start": "2026-09-13",
+   "count": 155
+  },
+  {
+   "start": "2026-09-20",
+   "count": 202
+  },
+  {
+   "start": "2026-09-27",
+   "count": 211
+  },
+  {
+   "start": "2026-10-04",
+   "count": 341
+  },
+  {
+   "start": "2026-10-11",
+   "count": 127
+  },
+  {
+   "start": "2026-10-18",
+   "count": 145
+  },
+  {
+   "start": "2026-10-25",
+   "count": 49
+  },
+  {
+   "start": "2026-11-01",
+   "count": 18
+  },
+  {
+   "start": "2026-11-08",
+   "count": 182
+  },
+  {
+   "start": "2026-11-15",
+   "count": 0
+  }
+ ],
+ "langs": [
+  {
+   "name": "TypeScript",
+   "color": "#3178c6",
+   "pct": 66.79891936128874
+  },
+  {
+   "name": "PHP",
+   "color": "#4F5D95",
+   "pct": 14.003069382698657
+  },
+  {
+   "name": "CSS",
+   "color": "#663399",
+   "pct": 6.380690987115273
+  },
+  {
+   "name": "Blade",
+   "color": "#f7523f",
+   "pct": 6.007903973438388
+  },
+  {
+   "name": "JavaScript",
+   "color": "#f1e05a",
+   "pct": 2.6609683429880793
+  },
+  {
+   "name": "Other",
+   "color": null,
+   "pct": 4.14844795247086
+  }
+ ],
+ "merged": [
+  {
+   "type": "PR",
+   "title": "Site: link the live docs and describe the infrastructure code accurately",
+   "repo": "boundlessfi/lumenstat",
+   "number": 5,
+   "date": "2026-11-14T06:26:31Z"
+  },
+  {
+   "type": "PR",
+   "title": "Milestone 1 pilot: bot defense, enrollment, tracker releases, docs and IaC",
+   "repo": "boundlessfi/lumenstat",
+   "number": 3,
+   "date": "2026-11-14T05:33:10Z"
+  },
+  {
+   "type": "FEAT",
+   "title": "One paid request, end to end, on the web",
+   "repo": "useroutr/pomi",
+   "number": 5,
+   "date": "2026-11-11T22:13:03Z"
+  },
+  {
+   "type": "FEAT",
+   "title": "Sign in with a code sent by email",
+   "repo": "useroutr/pomi",
+   "number": 4,
+   "date": "2026-11-10T06:09:29Z"
+  },
+  {
+   "type": "CHORE",
+   "title": "Pin CI actions to commit SHAs",
+   "repo": "useroutr/docs",
+   "number": 1,
+   "date": "2026-11-09T05:26:21Z"
+  }
+ ]
+}
